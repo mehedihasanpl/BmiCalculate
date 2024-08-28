@@ -1,4 +1,4 @@
-# calculate
+# bmicalculate
 
 A new Flutter project.
 
